@@ -1,2 +1,6 @@
 /node_modules
-/lib
+lib/*
+!lib/index.js
+!lib/index.d.ts
+!lib/eslint-config-standard.js
+!lib/eslint-config-standard.d.ts
